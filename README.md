@@ -1,0 +1,2 @@
+# Design-Simulation-Prototyping-of-AMTAV-Automated-Multi-Task-Agricultural-Vehicle-
+Designed, simulated, and prototyped an Automated Multi-Task Agricultural Vehicle (AMTAV) integrating mechanical, electrical, and control systems for versatile field operations. Enabled autonomous functionality through sensor integration, actuator control, and motor systems, with comprehensive testing and performance validation.
